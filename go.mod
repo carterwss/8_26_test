@@ -2,6 +2,7 @@ module github.ibm.com/mq-cloudpak/ibm-mq-operator
 
 go 1.15
 
+
 require (
 	cloud.google.com/go v0.73.0 // indirect
 	github.com/IBM/operand-deployment-lifecycle-manager v1.3.1
